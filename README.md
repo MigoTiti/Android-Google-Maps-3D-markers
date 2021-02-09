@@ -1,6 +1,6 @@
 # Android-Google-Maps-3D-markers
 
-![Final results](https://miro.medium.com/max/494/1*U82oKV3xbsF9QTo6b7L4vA.gif)
+![Final results](extra/final_results.gif)
 
 Source code, as presented in Medium article: https://lucasrodriguesgui.medium.com/rendering-and-animating-3d-markers-using-android-google-maps-sdk-3dfd0d597a2a
 
